@@ -1,1 +1,3 @@
-ddddd
+return {
+    "MACHO-FIVEM-GNFDL-XZODO" 
+}

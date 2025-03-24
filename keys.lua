@@ -1,3 +1,1 @@
-return {
-    "MACHO-FIVEM-GNFDL-XZODO" 
-}
+"MACHO-FIVEM-GNFDL-XZODO"
